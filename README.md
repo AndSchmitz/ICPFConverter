@@ -1,1 +1,1 @@
-[Shiny app](https://andschmitz.shinyapps.io/ICPFConverter) to convert coordinates from/to ICPF. 
+[Shiny app](https://andschmitz.shinyapps.io/ICPFConverter) to convert coordinates from WGS84 to the [ICP Forests coordinates format](https://icp-forests.org/documentation/Explanatory_Items/4.html) and vice versa.
